@@ -7,11 +7,11 @@
   "scripts": {
     "start": "tsx index.ts"
   },
+  "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "ox": "0.6.7",
     "permissionless": "^0.2.38",
     "viem": "^2.24.2"
   },
